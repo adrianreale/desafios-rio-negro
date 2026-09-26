@@ -1,0 +1,12 @@
+# Entorno virtual
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos locales que no queremos publicar
+desafios_original.html
+
+# Archivos de análisis/exportación personal
+analisis-*.json
