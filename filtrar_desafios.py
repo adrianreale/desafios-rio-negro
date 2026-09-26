@@ -11,7 +11,7 @@ ARCHIVO_ORIGINAL = Path("desafios_original.html")
 ARCHIVO_SALIDA = Path("index.html")
 
 # Números de los desafíos que queremos analizar
-DESAFIOS_INTERESADOS = [3,13,15,16,20,21,22,23,25,27,28,30,32,33,34,36,38,44,46,47,49,50,53,62,63,70,79,83]
+DESAFIOS_INTERESADOS = [3,13,15,16,20,21,23,25,27,28,32,33,34,36,38,44,46,47,49,50,53,62,63,70,79,83]
 
 
 # ============================================================
